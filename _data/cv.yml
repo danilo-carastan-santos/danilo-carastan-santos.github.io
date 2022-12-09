@@ -1,0 +1,101 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Danilo Carastan dos Santos     
+    - name: Languages
+      value: Portuuese, English, French
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Double-degree PhD in Computer Science 
+      institution: University Grenoble-Alpes (UGA), France and Federal University of ABC (UFABC), Brazil
+      year: 2019
+      description:
+        - 'Advisers: <a href="https://rycamargo.wixsite.com/home">Raphael Y. de Camargo</a> (UFABC) and <a href="https://datamove.imag.fr/denis.trystram/">Denis Trystram</a> (UGA)'
+        - 'Award date: 27/11/2019'
+        - <a href="https://tel.archives-ouvertes.fr/tel-02928077">Open thesis manuscript</a>        
+    - title: Master's degree in Computer Science Federal University of ABC
+      institution: Federal University of ABC (UFABC), Brazil
+      year: 2015
+      description:
+        - 'Award date: 27/05/2015'        
+    - title: Bachelor degree in Computer Science
+      institution: Federal University of ABC (UFABC), Brazil
+      year: 2014
+      description:
+        - 'Award date: 05/02/2014'
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Post-Doctoral Researcher
+      institution: Grenoble Informatics Laboratory (LIG), University Grenoble-Alpes
+      year: 2021 - now
+      description:
+        - 'Research on measuring and evaluating the energy consumption and
+        CO2 emissions of Computer Science conferencing and
+        characterizing the energy consumption of parallel and
+        distributed applications'              
+    - title: Post-Doctoral Researcher
+      institution: Informatics Institute (INF), Federal University of Rio Grande do Sul, Brazil
+      year: 2019 - 2021
+      description:
+        - Research on analysis of High Performance Computing architectures and applications
+    - title: PhD Researcher
+      institution: Laboratory of Parallel and Distributed Computing, Federal University of ABC, Brazil
+      year: 2018 - 2019
+      description:
+        - (double-degree PhD) Research Learning about heuristics for High Performance Computing resource management
+    - title: PhD Researcher
+      institution: Grenoble Informatics Laboratory (LIG), University Grenoble-Alpes, France
+      year: 2017 - 2018
+      description:
+        - (double-degree PhD) Research Learning about heuristics for High Performance Computing resource management
+    - title: Masters Researcher
+      institution: Laboratory of Parallel and Distributed Computing, Federal University of ABC, Brazil
+      year: 2013 - 2015
+      description:
+        - Research on parallel GPU algorithms for bioinformatics applications 
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: <a href="https://atos.net/fr/2022/communiques-de-presse_2022_07_06/atos-et-genci-annoncent-les-vainqueurs-du-prix-joseph-fourier-2022">Atos/GENCI Joseph Fourier Prize</a>
+      institution: ATOS/GENCI, Bezons, France
+      year: 2022 
+      description:
+        - 'This prestigious prize reward works in advanced computing
+        (supercomputing, quantum computing, edge computing) and
+        artificial intelligence. A jury of independent specialists and
+        representatives of the French scientific and industrial world
+        chooses and rewards several innovative projects. I, conjointly
+        with Professor Denis Trystram, was awarded first place in the
+        "Artificial Intelligence" category. My contribution to our
+        contest submission, entitled <i> do better with less</i>, involves
+        improving the operation of High-Performance Computing platforms,
+        particularly by using Machine Learning to optimize the order of
+        the applications to be executed.'
+    - title: <a href="https://www.dropbox.com/s/ez3yedrhww5el10/certificado_ctd_1.pdf?dl=0">Best PhD Thesis award</a>
+      institution: XXI Symposium on High Performance Computing Systems (WSCAD); Santo André, Brazil 
+      year: 2020
+      description:
+        - 'The contest judges and awards the best Brazilian theses in
+        Computer Architecture and High-Performance Computing each year.
+        It is a high-level scientific excellence contest since all
+        yearly PhD theses in the disciplines above can apply for the
+        contest. My thesis was awarded first place in the 2020
+        edition of this contest'       
+    - title: <a href="https://team.inria.fr/datamove/ccgrid-2019-best-paper/">Best Paper Award</a>
+      institution: 19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Larnaca, Cyprus
+      year: 2019 
+    - title: <a href="https://team.inria.fr/datamove/889-2">Nominated for the Best Paper and Best Student Paper awards</a>
+      institution: SC17 - The International Conference for High Performance Computing, Networking, Storage and Analysis, Denver, United-States
+      year: 2017 
+      description:
+        - 'In 2017, the SC conference accepted 61 papers, with an
+        acceptance rate of around 19%. Among these 61 papers, five
+        were nominated for the Best Paper Award, and three papers for
+        the Best Student Paper award. The conference nominated my paper
+        for both awards.'           

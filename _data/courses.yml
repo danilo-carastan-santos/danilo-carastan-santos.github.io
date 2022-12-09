@@ -1,0 +1,38 @@
+- title: 
+  type: time_table
+  contents:
+    - title: <i> Systèmes d’Exploitation et Programmation Concurrente (French) </i>
+      institution: University Grenoble-Alpes
+      year: 2021-22
+      description:
+        - 20 Master (M1) students
+    - title: <i> Systèmes d’Exploitation et Réseaux (French) </i>
+      institution: University Grenoble-Alpes
+      year: 2021-22                    
+      description:
+        - 20 Undergraduate (L3) students
+    - title: Technical Writing and Speaking in English
+      institution: University Grenoble-Alpes
+      year: 2020-21, 2021-22                    
+      description:
+        - 30 Master (M3) students
+    - title: <i> Algorithmique Avancée (French) </i>
+      institution: University Grenoble-Alpes
+      year: 2018-19                    
+      description:
+        - 20 Undergraduate (L3) students
+    - title: Algorithmic Problem Solving
+      institution: University Grenoble-Alpes
+      year: 2018-19                    
+      description:
+        - 20 Master (M1) students
+    - title: <i> Agorithmique et Programmation Fonctionnelle (French) </i>
+      institution: University Grenoble-Alpes
+      year: 2017-18
+      description:
+        - 30 Undergraduate (L1) students
+    - title: <i> Bases Computacionais da Ciência (Portuguese) </i>
+      institution: Federal University of ABC
+      year: 2014-16
+      description:
+        - 30 Undergraduate students
