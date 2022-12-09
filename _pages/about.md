@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 [comment]: <> Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-Wellcome! In this webpage you will find useful professional information about me, news and updates about my professional activity.
+Wellcome!! In this webpage you will find useful professional information about me, news and updates about my professional activity.
 You can find information on how to reach me at the bottom of this page.
 
 ## Research Topics
