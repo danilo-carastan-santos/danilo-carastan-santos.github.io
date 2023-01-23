@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: I will be filling here the list of participating project, as well as accepted project grants.
+description: I list the participating projects, as well as accepted project grants.
 nav: true
 nav_order: 4
 display_categories: [Participating, Project Grants]
