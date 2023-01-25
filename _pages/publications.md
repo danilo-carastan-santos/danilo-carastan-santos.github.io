@@ -4,8 +4,7 @@ permalink: /publications/
 title: Publications
 description: 'In agreement with the research teams I worked with, my publication
 strategy value high-quality conferences (e.g., Core A-ranking
-conferences such as SC and CCgrid) and journals (e.g., Nature
-Communications, FGCS, CCPE). As a junior researcher, I tend to
+conferences such as SC and CCgrid) and journals (e.g., FGCS, CCPE). As a junior researcher, I tend to
 prioritize conference publications over journals since conferences can
 leverage me to establish new scientific connections and collaborations.<br/>
 When I work with undergraduate and Masters students, I also seek to
