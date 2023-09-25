@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral researcher at <a href='https://www.univ-grenoble-alpes.fr/english/'>University Grenoble Alpes</a>. Researcher in lightweight, eco-responsible methods for parallel and distributed systems. 
+subtitle: Associate professor (tenure) at <a href='https://www.univ-grenoble-alpes.fr/english/'>University Grenoble Alpes</a>. Researcher in lightweight, eco-responsible methods for parallel and distributed systems at the <a href='https://www.liglab.fr/en'>Grenoble Computer Science Laboratory</a> (UMR 5217).
 
 profile:
   align: right
