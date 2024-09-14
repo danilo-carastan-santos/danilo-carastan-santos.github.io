@@ -30,9 +30,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Tenured Associate Professor
+      institution: Grenoble Informatics Laboratory (LIG), University Grenoble-Alpes
+      year: 2024 - present
+      description:        
     - title: Post-Doctoral Researcher
       institution: Grenoble Informatics Laboratory (LIG), University Grenoble-Alpes
-      year: 2021 - now
+      year: 2021 - 2023
       description:
         - 'Research on measuring and evaluating the energy consumption and
         CO2 emissions of Computer Science conferencing and

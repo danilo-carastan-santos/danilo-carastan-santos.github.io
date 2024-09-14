@@ -2,7 +2,7 @@
 layout: page
 permalink: /sevice/
 title: Service
-description: I list below my activities regarding research administration.
+description: I list below my activities regarding collective service/responsibilities.
 nav: true
 nav_order: 6
 horizontal: false
@@ -15,6 +15,9 @@ horizontal: false
 - <a href="https://www.dropbox.com/s/4p0upd2ci7q1rgv/CPE_Reviewer_Certificate_2021.pdf?dl=0">Concurrency and Computation: Practice and Experience</a>
 
 ## International Conference Reviewer
+- <a href="https://sc24.supercomputing.org/">SC 2024:</a> The International Conference for High Performance Computing, Networking, Storage, and Analysis
+- <a href="https://sites.google.com/ime.usp.br/sbac2024">SBAC-PAD 2024:</a> International Symposium on Computer Architecture and High Performance
+Computing
 - <a href="https://clustercomp.org/2020/">IEEE Cluster 2020:</a> IEEE Cluster Conference
 - <a href="https://ics2020.bsc.es/">ICS 2020:</a> International Conference on Supercomputing
 - <a href="https://sbac2020.dcc.fc.up.pt/">SBAC-PAD 2020:</a> International Symposium on Computer Architecture and High Performance
