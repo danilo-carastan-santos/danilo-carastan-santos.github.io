@@ -21,3 +21,6 @@ horizontal: false
 Distributed Computing (Euro-Par).</b></a> 25/08/2022. Miscellaneous session. Glasgow, United-Kingdom
   - With Krzysztof Rzadca, Leonel Sousa and Denis Trystram
   - <a href="/assets/pdf/presentations/Presentation_carbon_footprint_europar.pdf" target="_blank">Slides</a>
+- <b>Entender e avaliar o papel da computação na crise climática (Understanding and assessing the role of computing in the climate crisis)
+  - Invited talk at the autumn school XVI Escola Regional de Alto Desempenho do Estado de São Paulo, São Paulo, Brazil.
+  - <a href="/assets/pdf/presentations/2025-05-29-erad-sp.pdf" target="_blank">Slides</a>
